@@ -5,7 +5,8 @@ public class test {
 		
 		System.out.println("test");
 		System.out.println("test");
-		System.out.println("2");
+		
+		System.out.println("Versão 2.0");
 
 		
 	}
