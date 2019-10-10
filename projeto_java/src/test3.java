@@ -1,9 +1,13 @@
 
 public class test3 {
 
-	System.out.println("test");
-	System.out.println("test");
-	System.out.println("3");
-	System.out.println("Õ");
+	public test3() {
+
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("3");
+		System.out.println("teste 3");
+	
+	}
 
 }
